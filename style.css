@@ -1,0 +1,13 @@
+body {
+background: url(background.jpg) ;
+color: white ;
+}
+A {
+  color: white;
+}
+A:visited{
+  color: white;
+}
+A:active{
+  color: white;
+}
